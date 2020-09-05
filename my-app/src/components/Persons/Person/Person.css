@@ -7,3 +7,9 @@
     box-shadow: 20px 20px 0 #ccc;
     padding: 20px;
 }
+
+@media (min-width: 500px) {
+    .Person{
+        width: '450px'
+    }
+}
